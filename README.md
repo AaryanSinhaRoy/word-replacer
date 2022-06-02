@@ -1,4 +1,6 @@
 # word-replacer
-A web tool to bulk replace a word in a paragraph
+A web tool to bulk replace words in a paragraph.
 
-requires Flask and python to run locally.
+use the app here:
+
+wordreplacer.pythonanywhere.com
